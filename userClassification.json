@@ -1,0 +1,26 @@
+[
+  {
+    "User": "KRBTGT",
+    "Score": 1
+  },
+  {
+    "User": "ADMINISTRATOR",
+    "Score": 2
+  },
+  {
+    "User": "THE_EMPEROR",
+    "Score": 2
+  },
+  {
+    "User": "YORINOBU",
+    "Score": 1
+  },
+  {
+    "User": "HACKSMARTER.LOCAL-S-1-5-17",
+    "Score": 1
+  },
+  {
+    "User": "GUEST",
+    "Score": 1
+  }
+]
